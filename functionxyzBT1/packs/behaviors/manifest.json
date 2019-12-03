@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "function-xyz-BT1 Behaviors",
+    "description": "A Basic Test that make I learn the API of minecraft bedrock behavior pack.",
+    "uuid": "09b7360e-772d-4805-8897-1f888bbd08d7",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for function-xyz-BT1",
+      "type": "client_data",
+      "uuid": "927b0688-bea7-41eb-8268-90e71ced9fc1",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
